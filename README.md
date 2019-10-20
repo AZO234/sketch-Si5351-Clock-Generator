@@ -47,6 +47,11 @@ https://github.com/AZO234/Arduino_SSD1306
 - AZO234/Arduino_font_JaANK  
 https://github.com/AZO234/Arduino_font_JaANK
 
+Write to chip
+=============
+
+This program designed for driving on internal 8MHz.
+
 Usage
 =====
 
