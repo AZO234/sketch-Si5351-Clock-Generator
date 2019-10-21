@@ -72,7 +72,7 @@ Usage
     On this mode, same Manual mode, It can controlls any PLL/Clks.  
     But it can't save settings.
 
-3. Non controll mode (pin4=L / pin5=H)
+3. Non controll mode (pin4=H / pin5=H)
 
     On this mode, It can't change settings of PLL/Clks.  
     Setting is loaded from EEPROM and drive.
